@@ -1,0 +1,3 @@
+2023-09-12	8174a8be-a52b-4c0f-8175-e76c545d76d6	/	GET
+2023-09-12	204a9e2b-7ad6-400c-be3d-61287439aabd	/css/style.css	GET
+2023-09-12	21e1d978-5369-4015-ac2c-f26a05f05bef	/favicon.ico	GET
